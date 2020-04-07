@@ -8,4 +8,3 @@ etage.times do |i| # pour faire la boucle des étages
   i < etage
   puts "#"*i
 end
-
